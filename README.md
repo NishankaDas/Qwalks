@@ -1,1 +1,1 @@
-# Implementation of Lakadaisical Quantum Walks 
+# Gate Level Implementation of Lakadaisical Quantum Walks 
